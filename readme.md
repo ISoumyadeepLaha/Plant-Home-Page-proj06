@@ -24,3 +24,4 @@ So total time taken to complete the project is 2 hours 20 mins
 
 ## Here is the live link of the project
 
+[Netlify Link...](https://plant-home-page-proj06.netlify.app/)
